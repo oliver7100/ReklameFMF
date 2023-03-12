@@ -45,15 +45,11 @@
     font-size: 2rem;
   }
  
-  .logo-image{
-    height: 30%;
-    width: 30%;
+  #logo-image{
+    margin-right: 0.5rem;
+    height: 80%; width: 80%;
   }
   
-
-  .fa-gem {
-    margin-right: 0.5rem;
-  }
   
   .navbar__menu {
     display: flex;
